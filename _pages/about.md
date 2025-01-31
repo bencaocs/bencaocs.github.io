@@ -33,6 +33,26 @@ PUBLISHED/ACCEPT (# for co-first author, †for assist supervised master):
 1. 	Cao B, Zhao S, Li X, et al. K-Means Multi-Verse Optimizer (KMVO) Algorithm to Construct DNA Storage Codes. IEEE Access,2020,8:29547-29556.
 1. 	Yin Q, Cao B, Li X, et al. An Intelligent Optimization Algorithm for Constructing a DNA Storage Code: NOL-HHO. International Journal of Molecular Sciences,2020,6(21). (JCR Q1, TOP, IF=6.208)
 
+Award
+======
+●	ESI highly cited papers (Two) and ESI hot paper, Clarivate.
+
+●	Invited as ~20 SCI journals reviewer, such as IEEE Transactions on Nanobioscience, IEEE Transactions on Molecular Biological and Multi-Scale Communications, Brief of Bioinformatics, Computational and Structural Biotechnology Journal, Future Generation Computer Systems, Scientific Reports, IEEE Communications Letters, Peerj, BMC bioinformatics, Peerj computer science et al.
+
+●	Gold Award of the 8th "Internet Plus" Innovation and Entrepreneurship Competition for College Students in Liaoning Province, Drug target affinity prediction based on artificial intelligence, Education Department of Liaoning Province.
+
+●	China National Scholarship (2021, 2023), The Central Government of China.
+
+●	Excellent Master's thesis of Liaoning Province, Liaoning Department of Education, China. 
+
+ASSIST SUPERVISORS/STUDENTS MENTORED	
+ ======
+1. 	Yanfen Zheng, DNA coding and Error correction, Published 2 SCI Paper (IEEE TCBB and FIG), Currently pursuing a Phd student at DLUT.
+1. 	Penghao Wang, DNA cluster, Published 2 SCI Paper (CIBM and FIBB), Currently pursuing a Phd student at TJU.
+1. 	Lijun Sun, DNA Triplex design, Published 1 SCI Paper (JPCB), Currently pursuing a Phd student at DLUT.
+1. 	Ziniu Mu, DNA storage coding, Published 1 SCI Paper (IEEE TNB).
+1. 	Yunzhu Zhao, DNA assembly, Published 1 SCI Paper (CSBJ), China National Scholarship, Currently pursuing a Phd student at University of Canterbury.
+1. 	Kun Wang, DNA image storage, Published 1 SCI Paper (JCIM).
 
 A data-driven personal website
 ======
