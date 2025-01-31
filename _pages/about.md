@@ -33,7 +33,7 @@ PUBLISHED/ACCEPT (# for co-first author, †for assist supervised master):
 1. 	Cao B, Zhao S, Li X, et al. K-Means Multi-Verse Optimizer (KMVO) Algorithm to Construct DNA Storage Codes. IEEE Access,2020,8:29547-29556.
 1. 	Yin Q, Cao B, Li X, et al. An Intelligent Optimization Algorithm for Constructing a DNA Storage Code: NOL-HHO. International Journal of Molecular Sciences,2020,6(21). (JCR Q1, TOP, IF=6.208)
 
-Award
+AWARD
 ------
 1. 	ESI highly cited papers (Two) and ESI hot paper, Clarivate.
 1. 	Invited as ~20 SCI journals reviewer, such as IEEE Transactions on Nanobioscience, IEEE Transactions on Molecular Biological and Multi-Scale Communications, Brief of Bioinformatics, Computational and Structural Biotechnology Journal, Future Generation Computer Systems, Scientific Reports, IEEE Communications Letters, Peerj, BMC bioinformatics, Peerj computer science et al.
