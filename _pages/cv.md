@@ -13,7 +13,7 @@ Education
 ======
 
 * Joint-Ph.D in A*STAR,CFAR, SG 2023.10-2024.10
-* Ph.D in Dalian University of Technology, CN 2021.09-2025.01 (expected)
+* Ph.D in Dalian University of Technology, CN 2021.09-2025.01
 
 Work experience
 ======
