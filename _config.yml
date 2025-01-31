@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ben Cao"
   avatar           : "profile.png"
-  bio              : "Dr. Cao Ben received his Ph.D. in Computer Science from Dalian University of Technology (DLUT), where he was jointly trained with A*STAR, Singapore. His research focuses on the intersection of computer science and biotechnology, with a commitment to solving biological problems using computational methods. His work spans areas such as DNA data storage and security, coding theory, gene expression, artificial intelligence, and large language models (LLM). Dr. Cao has published over 10 papers as the first author or co-first author in international journals such as Cell Reports, IEEE Transactions, and BIB, including one ESI hot paper and two ESI highly cited papers. He actively contributes to the academic community, serving as the Associate Editor of the Journal of Artificial Intelligence in Bioinformatics, and has been invited to review for approximately 20 SCI journals, including IEEE Transactions on Nanobioscience, IEEE Transactions on Molecular Biological and Multi-Scale Communications, Computational and Structural Biotechnology Journal, Future Generation Computer Systems, Scientific Reports, IEEE Communications Letters, PeerJ, BMC Bioinformatics, PeerJ Computer Science, and others. He has received the National Scholarship twice and the China Scholarship Council (CSC) Scholarship once."
+  bio              : "Dr. Cao Ben focuses on the intersection of computer science and biotechnology, with a commitment to solving biological problems using computational methods, such as DNA data storage and security, coding theory, gene expression, artificial intelligence, and large language models (LLM)."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=P8crT5AAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
