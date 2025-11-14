@@ -1,10 +1,10 @@
 ### PUBLISHED/ACCEPT (# for co-first author, †for assist supervised master): 
-------
+------[[Full Publish list]]([[https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN]])
 1. Cao B, Li X, He T, et al. Learning Structurally Stabilized Representations for Multi-modal Lossless DNA Storage. arXiv preprint arXiv:2408.00779, 2024. Accept in AAAI 2026.
 1. Cao B, Zhao Y, Xie L, et al., DBSP: An End-to-end Pipeline for DNA Storage Data Reconstruction from DNA Sequencing, IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, Doi: 10.1109/TMBMC.2025.3613268.
 1. Liu Z#,†, Cao B#, et al. Family of Mutually Uncorrelated Codes for DNA Storage Address Design, IEEE Transactions on NanoBioscience, 2025. DOI: 10.1109/TNB.2025.3530470. 
 1. Cao B#, Zheng Y#, et al.  Efficient Data Reconstruction: The Bottleneck of Large-scale Application of DNA Storage, Cell reports, 2024. (Cell press, JCR Q1, IF=8.8)
-1. Cao B#, Wang K#,†, et al.  PELMI: Realize robust DNA image storage under general errors via parity encoding and local mean iteration, Brief in Bioinformatics, 2024. Doi:10.1093/bib/bbae463 (JCR Q1, TOP, IF=6.8) [[Paper]]([[https://doi.org/10.1109/LCOMM.2021.3081593](https://academic.oup.com/bib/article/25/5/bbae463/7759103)])
+1. Cao B#, Wang K#,†, et al.  PELMI: Realize robust DNA image storage under general errors via parity encoding and local mean iteration, Brief in Bioinformatics, 2024. Doi:10.1093/bib/bbae463 (JCR Q1, TOP, IF=6.8) [[Paper]]([[https://academic.oup.com/bib/article/25/5/bbae463/7759103]])
 1. Cao B#, Li X#, Wang B, et al. Achieve Handle Level Random Access in Encrypted DNA Archival Storage System via Frequency Dictionary Mapping Coding[J]. bioRxiv, 2024: 2024.08. 15.608111. Major Revision in PATTERNS.
 1. Li X#, Cao B#, Wang J, et al. Predicting mutation-disease associations through protein interactions via deep learning[J]. bioRxiv, 2024: 2024.08. 06.606730.
 1. Wang K#,†, Cao B#, Zhao Y, Wang B. DNA-base128: Stores images into DNA via base128 encoding, Journal of Chemical Information and Modeling, 2024. (JCR Q1, TOP, IF=5.6) 
