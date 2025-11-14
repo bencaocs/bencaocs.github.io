@@ -1,16 +1,6 @@
+1. 	ESI highly cited papers (Two) and ESI hot paper, Clarivate.
+1. 	Invited as ~20 SCI journals reviewer, such as IEEE Transactions on Neural Networks and Learning, IEEE Transactions on Nanobioscience, IEEE Transactions on Molecular Biological and Multi-Scale Communications, Advanced Science, Briefings in Bioinformatics, Computational and Structural Biotechnology Journal, Future Generation Computer Systems, Scientific Reports, IEEE Communications Letters, Peerj, BMC bioinformatics, Peerj computer science et al.
+1. 	Gold Award of the 8th "Internet Plus" Innovation and Entrepreneurship Competition for College Students in Liaoning Province, Drug target affinity prediction based on artificial intelligence, Education Department of Liaoning Province.
+1. 	China National Scholarship (2021, 2023), The Central Government of China.
+1. 	Excellent Master's thesis of Liaoning Province, Liaoning Department of Education, China.
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
