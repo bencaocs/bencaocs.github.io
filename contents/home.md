@@ -8,8 +8,7 @@ Dr. Cao Ben received his Ph.D. in Computer Science from Dalian University of Tec
 Email: bencaocs[at]Gmail.com.
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.d., Computer Science and Technology, Dalian University of Technology, 2021—2025.\
 
 #### Research Interests
 Deep Learning, Artificial Intelligence, Biocomputing.
