@@ -6,9 +6,9 @@
 
 ### ASSIST SUPERVISORS/STUDENTS MENTORED
 ------
-1. 	Yanfen Zheng, DNA coding and Error correction, Published 2 SCI Paper (IEEE TCBB and FIG), Currently pursuing a Phd student at DLUT.
-1. 	Penghao Wang, DNA cluster, Published 2 SCI Paper (CIBM and FIBB), Currently pursuing a Phd student at TJU.
-1. 	Lijun Sun, DNA Triplex design, Published 1 SCI Paper (JPCB), Currently pursuing a Phd student at DLUT.
-1. 	Ziniu Mu, DNA storage coding, Published 1 SCI Paper (IEEE TNB).
-1. 	Yunzhu Zhao, DNA assembly, Published 1 SCI Paper (CSBJ), China National Scholarship, Currently pursuing a Phd student at University of Canterbury.
+- Yanfen Zheng, DNA coding and Error correction, Published 2 SCI Paper (IEEE TCBB and FIG), Currently pursuing a Phd student at DLUT.
+- Penghao Wang, DNA cluster, Published 2 SCI Paper (CIBM and FIBB), Currently pursuing a Phd student at TJU.
+- Lijun Sun, DNA Triplex design, Published 1 SCI Paper (JPCB), Currently pursuing a Phd student at DLUT.
+- Ziniu Mu, DNA storage coding, Published 1 SCI Paper (IEEE TNB).
+1. Yunzhu Zhao, DNA assembly, Published 1 SCI Paper (CSBJ), China National Scholarship, Currently pursuing a Phd student at University of Canterbury.
 1. 	Kun Wang, DNA image storage, Published 1 SCI Paper (JCIM).
