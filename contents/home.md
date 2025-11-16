@@ -8,7 +8,7 @@ Dr. Cao Ben currently is a Postdoc research fellow in University of Oklahoma and
 Email: bencaocs[at]Gmail.com.
 
 #### Education
-Ph.d., Computer Science and Technology, Dalian University of Technology, 2021—2025.\
+Ph.d., Computer Science and Technology, Dalian University of Technology, 2021—2025.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence, Biocomputing.
