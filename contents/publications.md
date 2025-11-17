@@ -7,7 +7,7 @@
 1. **Cao B**, Li X, Wang B, et al. Achieve Handle Level Random Access in Encrypted DNA Archival Storage System via Frequency Dictionary Mapping Coding[J]. bioRxiv, 2024: 2024.08. 15.608111. PATTERNS, 2025.(IF=7.7)
 1. **Cao B#**, Zheng Y#, et al.  Efficient Data Reconstruction: The Bottleneck of Large-scale Application of DNA Storage, Cell reports, 2024. (Cell press, JCR Q1, IF=8.8)
 1. **Cao B**, Wang K†, et al.  PELMI: Realize robust DNA image storage under general errors via parity encoding and local mean iteration, Brief in Bioinformatics, 2024. Doi:10.1093/bib/bbae463 (JCR Q1, TOP, IF=6.8) [[Paper]](https://academic.oup.com/bib/article/25/5/bbae463/7759103)
-1. Li X#, **Cao B#**, Wang J, et al. Predicting mutation-disease associations through protein interactions via deep learning[J]. bioRxiv, 2024: 2024.08. 06.606730.
+1. Li X#, **Cao B#**, Wang J, et al. Predicting mutation-disease associations through protein interactions via deep learning[J]. bioRxiv, 2024: 2024.08. 06.606730. IEEE Journal of Biomedical and Health Informatics. [[Paper]](https://ieeexplore.ieee.org/iel8/6221020/11025953/10884700.pdf) DOI: 10.1109/JBHI.2025.3541848
 1. Wang K#,†, **Cao B#**, Zhao Y, Wang B. DNA-base128: Stores images into DNA via base128 encoding, Journal of Chemical Information and Modeling, 2024. (JCR Q1, TOP, IF=5.6) 
 1. **Cao B**, Wang B, Zhang Q.  GCNSA: DNA storage encoding with a graph convolutional network and self-attention, iScience, 2023: 106231. (Cell press, JCR Q1, IF=6.107) 
 1. Zheng Y#,†, **Cao B#**, Wu J, et al. High Net Information Density DNA Data Storage by the MOPE Encoding Algorithm, IEEE/ACM Transactions on Computational Biology and Bioinformatics,2023,1-1. (JCR Q1, CCF B, IF=3.702)
