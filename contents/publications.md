@@ -2,6 +2,7 @@
 ---------------------------------------------------------------[[Full Publish list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
 1. Sun L#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, Journal of Chemical Theory and Computation, Accept, 2026.
 1. **Cao B**, Li X, He T, et al. Learning Structurally Stabilized Representations for Multi-modal Lossless DNA Storage. arXiv preprint arXiv:2408.00779, 2024. Accept in AAAI 2026.
+1. Liu Z, Li X, Xie L, Wang B, Zhou S, **Cao B***, Zheng P, Zhang Q, DVOUG: Adynamic variable-order unitig-level assembly graph, Cell Reports Method, Accept and in press, 2025.
 1. **Cao B**, Zhao Y, Xie L, et al., DBSP: An End-to-end Pipeline for DNA Storage Data Reconstruction from DNA Sequencing, IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, Doi: 10.1109/TMBMC.2025.3613268.
 1. Liu Z#,†, **Cao B#**, et al. Family of Mutually Uncorrelated Codes for DNA Storage Address Design, IEEE Transactions on NanoBioscience, 2025. DOI: 10.1109/TNB.2025.3530470.
 1. **Cao B**, Li X, Wang B, et al. Achieve Handle Level Random Access in Encrypted DNA Archival Storage System via Frequency Dictionary Mapping Coding[J]. bioRxiv, 2024: 2024.08. 15.608111. PATTERNS, 2025.(IF=7.7)
