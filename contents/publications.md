@@ -1,4 +1,4 @@
-### PUBLISHED/ACCEPT (# for co-first author, †for assist supervised master): 
+### PUBLISHED/ACCEPT (# for co-first author, †for supervised Student): 
 ---------------------------------------------------------------[[Full Publish list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
 1. Sun Lj#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, Journal of Chemical Theory and Computation, Accept, 2026.
 1. **Cao B**, Li X, He T, et al. Learning Structurally Stabilized Representations for Multi-modal Lossless DNA Storage. arXiv preprint arXiv:2408.00779, 2024. Accept in AAAI 2026.
