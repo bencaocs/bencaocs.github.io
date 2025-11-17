@@ -1,6 +1,6 @@
 ### PUBLISHED/ACCEPT (# for co-first author, †for supervised Student): 
 ---------------------------------------------------------------[[Full Publish list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
-1. Sun Lj#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, Journal of Chemical Theory and Computation, Accept, 2026.
+1. Sun L#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, Journal of Chemical Theory and Computation, Accept, 2026.
 1. **Cao B**, Li X, He T, et al. Learning Structurally Stabilized Representations for Multi-modal Lossless DNA Storage. arXiv preprint arXiv:2408.00779, 2024. Accept in AAAI 2026.
 1. **Cao B**, Zhao Y, Xie L, et al., DBSP: An End-to-end Pipeline for DNA Storage Data Reconstruction from DNA Sequencing, IEEE Transactions on Molecular, Biological, and Multi-Scale Communications, Doi: 10.1109/TMBMC.2025.3613268.
 1. Liu Z#,†, **Cao B#**, et al. Family of Mutually Uncorrelated Codes for DNA Storage Address Design, IEEE Transactions on NanoBioscience, 2025. DOI: 10.1109/TNB.2025.3530470.
