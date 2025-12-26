@@ -5,9 +5,9 @@
 1. Excellent Master's thesis of Liaoning Province, Liaoning Department of Education, China.
 
 ### Funding
-
-JSPS Postdoc Fellowship, JSPS JP. $55k.
-Opening Fundation of Key Laboratory, Ministry of Education, China. ¥20K.
+------
+1. JSPS Postdoc Fellowship, JSPS JP. $55k.
+1. Opening Fundation of Key Laboratory, Ministry of Education, China. ¥20K.
 
 
 ### ASSIST SUPERVISORS/STUDENTS MENTORED
