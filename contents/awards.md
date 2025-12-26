@@ -4,6 +4,12 @@
 1. China National Scholarship (2021, 2023), The Central Government of China.
 1. Excellent Master's thesis of Liaoning Province, Liaoning Department of Education, China.
 
+### Funding
+
+JSPS Postdoc Fellowship, JSPS JP. $55k.
+Opening Fundation of Key Laboratory, Ministry of Education, China. ¥20K.
+
+
 ### ASSIST SUPERVISORS/STUDENTS MENTORED
 ------
 1. Yanfen Zheng, DNA coding and Error correction, Published 2 SCI Paper (IEEE TCBB and FIG), Currently pursuing a Phd student at DLUT.
