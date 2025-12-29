@@ -8,8 +8,8 @@
 1. Xie L#,†, **Cao B#**, Wen X, et al. ReLume: Enhancing DNA storage data reconstruction with flow network and graph partitioning[J]. _Methods_, 2025, 240: 101-112.
 1. Liu Z#,†, **Cao B#**, et al. Family of Mutually Uncorrelated Codes for DNA Storage Address Design, _IEEE Transactions on NanoBioscience_, 2025. DOI: 10.1109/TNB.2025.3530470.
 1. **Cao B**, Li X, Wang B, et al. Achieve Handle Level Random Access in Encrypted DNA Archival Storage System via Frequency Dictionary Mapping Coding[J]. bioRxiv, 2024: 2024.08. 15.608111. _PATTERNS_, 2025.(IF=7.7)
-1. **Cao B#**, Zheng Y#, et al.  Efficient Data Reconstruction: The Bottleneck of Large-scale Application of DNA Storage, _Cell reports_, 2024. (Cell press, JCR Q1, IF=8.8)
-1. **Cao B**, Wang K†, et al.  PELMI: Realize robust DNA image storage under general errors via parity encoding and local mean iteration, _Brief in Bioinformatics_, 2024. Doi:10.1093/bib/bbae463 (JCR Q1, TOP, IF=6.8) [[Paper]](https://academic.oup.com/bib/article/25/5/bbae463/7759103)
+1. **Cao B#**, Zheng Y#, et al. Efficient Data Reconstruction: The Bottleneck of Large-scale Application of DNA Storage, _Cell reports_, 2024. (Cell press, JCR Q1, IF=8.8)
+1. **Cao B**, Wang K†, et al. PELMI: Realize robust DNA image storage under general errors via parity encoding and local mean iteration, _Brief in Bioinformatics_, 2024. Doi:10.1093/bib/bbae463 (JCR Q1, TOP, IF=6.8) [[Paper]](https://academic.oup.com/bib/article/25/5/bbae463/7759103)
 1. Li X#, **Cao B#**, Wang J, et al. Predicting mutation-disease associations through protein interactions via deep learning[J]. bioRxiv, 2024: 2024.08. 06.606730. _IEEE Journal of Biomedical and Health Informatics_. [[Paper]](https://ieeexplore.ieee.org/iel8/6221020/11025953/10884700.pdf) DOI: 10.1109/JBHI.2025.3541848
 1. Wang K#,†, **Cao B#**, Zhao Y, Wang B. DNA-base128: Stores images into DNA via base128 encoding, _Journal of Chemical Information and Modeling_, 2024. (JCR Q1, TOP, IF=5.6) 
 1. **Cao B**, Wang B, Zhang Q.  GCNSA: DNA storage encoding with a graph convolutional network and self-attention, _iScience_, 2023: 106231. (Cell press, JCR Q1, IF=6.107) 
