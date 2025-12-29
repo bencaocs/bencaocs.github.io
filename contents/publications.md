@@ -22,8 +22,8 @@
 1. **Cao B**, Zhang X, Cui S, et al. Adaptive coding for DNA storage with high storage density and low coverage. _Npj Systems Biology and Applications_,2022,1(8):23. (Nature press, JCR Q1, TOP, IF=4.671)
 1. **Cao B**, Shi P, Zheng Y, et al. FMG: An observable DNA storage coding method based on frequency matrix game graphs, _Computers in biology and medicine_, 2022, pp. 106269. (JCR Q1, IF= 6.698)
 1. Sun L#,†, **Cao B#**, et al. TripDesign: A DNA triplex design approach based on interaction forces, _Journal of Physical Chemistry B_, 2022, 126(43): 8708-8719.
-1. **Cao B**, Li X, Zhang X, et al. Designing Uncorrelated Address Constrain for DNA Storage by DMVO Algorithm. _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2022 , 2(19):866-877. (JCR Q1, ESI Top Paper, CCF B, IF=3.702)
-1. **Cao B**, Zhang X, Wu J, et al. Minimum free energy coding for DNA storage. _IEEE Transactions on NanoBioscience_, 2021 , 2:212-222. (**ESI Highly Cited Paper**, IF=3.206)
+1. **Cao B**, Li X, Zhang X, et al. Designing Uncorrelated Address Constrain for DNA Storage by DMVO Algorithm. _IEEE/ACM Transactions on Computational Biology and Bioinformatics_, 2022 , 2(19):866-877. (JCR Q1, **ESI Top Paper**, CCF B, IF=3.702)
+1. **Cao B**, Zhang X, Wu J, et al. Minimum free energy coding for DNA storage. _IEEE Transactions on NanoBioscience_, 2021, 2:212-222. (**ESI Highly Cited Paper**, IF=3.206)
 1. **Cao B**, Zhao S, Li X, et al. K-Means Multi-Verse Optimizer (KMVO) Algorithm to Construct DNA Storage Codes. _IEEE Access_,2020,8:29547-29556.
 1. Yin Q, **Cao B**, Li X, et al. An Intelligent Optimization Algorithm for Constructing a DNA Storage Code: NOL-HHO. _International Journal of Molecular Sciences_, 2020, 6(21). (JCR Q1, TOP, IF=6.208)
 
