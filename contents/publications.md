@@ -1,4 +1,4 @@
-### PUBLISHED/ACCEPT (* corresponding author, # co-first author, †supervised Student): -[[Full Publish list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
+### Peer-reviewed (* corresponding author, # co-first author, †supervised Student): [[Full list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
 1. **Cao B**, Xie L, Liu Z, et al. DNA Sequence Trace Reconstruction Using Deep Learning[J]. bioRxiv, 2025: 2025.08. 05.668822.
 1. Wang, J†, Wang, B, Zhou, S, **Cao B***, Li, W, & Zheng, P. (2025). DNACSE: Enhancing Genomic LLMs with Contrastive Learning for DNA Barcode Identification. Journal of Chemical Information and Modeling, 2026. (JCR Q1 Top, IF = 5.3)
 1. Sun L#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, Journal of Chemical Theory and Computation, Accept, 2026.
