@@ -1,7 +1,7 @@
 ### * Corresponding author, # Co-first author, †Supervised Student: [[Full list]](https://scholar.google.com.hk/citations?user=P8crT5AAAAAJ&hl=zh-CN)
 1. **Cao B**, Xie L, Liu Z, et al. DNA Sequence Trace Reconstruction Using Deep Learning[J]. bioRxiv, 2025: 2025.08. 05.668822.
 1. Wang, J†, Wang, B, Zhou, S, **Cao B***, Li, W, & Zheng, P. DNACSE: Enhancing Genomic LLMs with Contrastive Learning for DNA Barcode Identification. _Journal of Chemical Information and Modeling_, 2026. (JCR Q1 Top, IF = 5.3)
-1. Sun L#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, _Journal of Chemical Theory and Computation_, 2025. (JCR Q1 Top, IF = 5.5)
+1. Sun L#,†, **Cao B#**, et al. Designing DNA Triplexes with High Affinity and Specific Recognition based on Multiple Biophysical Mechanisms, _Journal of Chemical Theory and Computation_, 2025. (JCR Q1 Top, IF = 5.5) [[paper]](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.5c01298)
 1. **Cao B**, Li X, He T, et al. Learning Structurally Stabilized Representations for Multi-modal Lossless DNA Storage. arXiv preprint arXiv:2408.00779, 2024. Accept in _AAAI 2026_.
 1. Liu Z, Li X, Xie L, Wang B, Zhou S, **Cao B***, Zheng P, Zhang Q, DVOUG: Adynamic variable-order unitig-level assembly graph, _Cell Reports Method_, 2025: 101243. (Cell press, JCR Q1, IF=4.5).
 1. **Cao B**, Zhao Y, Xie L, et al., DBSP: An End-to-end Pipeline for DNA Storage Data Reconstruction from DNA Sequencing, _IEEE Transactions on Molecular, Biological, and Multi-Scale Communications_, Doi: 10.1109/TMBMC.2025.3613268.
